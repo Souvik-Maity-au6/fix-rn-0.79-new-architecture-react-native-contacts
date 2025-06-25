@@ -48,7 +48,9 @@
     }
   ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "react-native": "^0.80.0"
+  },
   "devDependencies": {
     "react-native-cli": "^2.0.1"
   },
@@ -58,7 +60,7 @@
     "jsSrcsDir": "src"
   },
   "peerDependencies": {
-    "react-native": "*",
-    "react": "*"
+    "react": "*",
+    "react-native": "*"
   }
 }

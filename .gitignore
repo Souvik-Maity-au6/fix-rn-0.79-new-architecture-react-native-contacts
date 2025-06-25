@@ -7,3 +7,8 @@ ios/RCTContacts.xcodeproj/project.xcworkspace
 
 .npm-debug.log
 .DS_Store
+.lock
+# Ignore lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
